@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ms Njuguna (Trish or Patricia)
+# 👋 Hi, I’m Ms_Njuguna (Trish or Patricia)
 
 ### Full Stack Developer | Passionate about building clean, scalable apps | Lifelong learner
 
@@ -17,19 +17,25 @@
 
 ## 🔧 Skills & Tools
 
+## 🔧 Skills & Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <!-- GitHub Readme Stats Card -->
-![Patricia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ms_Njuguna&show_icons=true&theme=radical)
+![Ms-Njuguna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ms-Njuguna&show_icons=true&theme=radical)
+
 
 ---
 
