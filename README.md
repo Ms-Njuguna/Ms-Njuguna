@@ -18,14 +18,17 @@
 ## 🔧 Skills & Tools
 
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="border-radius:8px; margin-right:4px;" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="border-radius:8px; margin-right:4px;" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" style="border-radius:8px; margin-right:4px;" />
-<img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" style="border-radius:8px; margin-right:4px;" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" style="border-radius:8px; margin-right:4px;" />
-<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" style="border-radius:8px; margin-right:4px;" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="border-radius:8px; margin-right:4px;" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" style="border-radius:8px;" />
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="border-radius:8px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="border-radius:8px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" style="border-radius:8px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" style="border-radius:8px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" style="border-radius:8px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" style="border-radius:8px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="border-radius:8px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" style="border-radius:8px;" />
+</p>
+
 
 
 ---
