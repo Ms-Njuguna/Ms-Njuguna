@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 Currently working on: A cool project at Moringa School 🎓
+- 🎓 Currently working on: A cool project at Moringa School 
 - 🌱 Learning: React, Node.js, Python and advanced JavaScript
 - 👯 Looking to collaborate on open source web apps and APIs
 - 💬 Ask me about: JavaScript, Python, Git, and UI/UX design
@@ -44,17 +44,12 @@
 ## Let's Connect!
 
 
-<p>
-  <a href="https://linkedin.com/in/patricianjuguna" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" style="border-radius:8px; margin-right:4px;" />
-  </a>
-  <a href="https://instagram.com/yourhandle" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" style="border-radius:8px; margin-right:4px;" />
-  </a>
-  <a href="https://yourportfolio.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-1B1F23?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1F23" style="border-radius:8px;" />
-  </a>
-</p>
+
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/patricianjuguna)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-1c1c1c?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/yourhandle)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-1c1c1c?style=for-the-badge&logo=About.me&logoColor=FFFFFF)](https://yourportfolio.com)
+
+
 
 
 
