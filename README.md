@@ -19,14 +19,14 @@
 
 
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="border-radius:8px; margin-right:4px;" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="border-radius:8px; margin-right:4px;" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" style="border-radius:8px; margin-right:4px;" />
-  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" style="border-radius:8px; margin-right:4px;" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" style="border-radius:8px; margin-right:4px;" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" style="border-radius:8px; margin-right:4px;" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="border-radius:8px; margin-right:4px;" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" style="border-radius:8px;" />
+  <img src="https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=d4af37" style="border-radius:50px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="border-radius:50px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius:50px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius:50px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/Node.js-1c1c1c?style=for-the-badge&logo=node.js&logoColor=3C873A" style="border-radius:50px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/Vite-1c1c1c?style=for-the-badge&logo=vite&logoColor=646CFF" style="border-radius:50px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/Git-1c1c1c?style=for-the-badge&logo=git&logoColor=F05032" style="border-radius:50px; margin-right:4px;" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" style="border-radius:50px;" />
 </p>
 
 
@@ -36,7 +36,7 @@
 ## GitHub Stats
 
 <!-- GitHub Readme Stats Card -->
-![Ms-Njuguna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ms-Njuguna&show_icons=true&theme=radical)
+![Ms-Njuguna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ms-Njuguna&show_icons=true&bg_color=0e1117&title_color=d4af37&text_color=c9d1d9&icon_color=d4af37&border_color=30363d)
 
 
 ---
@@ -44,16 +44,17 @@
 ## Let's Connect!
 
 <p>
-  <a href="https://linkedin.com/in/patricianjuguna">
+  <a href="https://linkedin.com/in/patricianjuguna" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="border-radius:8px; margin-right:4px;" />
   </a>
-  <a href="https://instagram.com/trish_njuguna">
+  <a href="https://instagram.com/trish_njuguna" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="border-radius:8px; margin-right:4px;" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://yourportfolio.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" style="border-radius:8px;" />
   </a>
 </p>
+
 
 ---
 
