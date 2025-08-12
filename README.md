@@ -43,17 +43,19 @@
 
 ## Let's Connect!
 
-<p>
-  <a href="https://linkedin.com/in/patricianjuguna" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="border-radius:8px; margin-right:4px;" />
+
+<p align="center">
+  <a href="https://linkedin.com/in/patricianjuguna" style="text-decoration:none;>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&border_radius=8" />
   </a>
-  <a href="https://instagram.com/trish_njuguna" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="border-radius:8px; margin-right:4px;" />
+  <a href="https://instagram.com/yourhandle" style="text-decoration:none;>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&border_radius=8" />
   </a>
-  <a href="https://yourportfolio.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" style="border-radius:8px;" />
+  <a href="https://yourportfolio.com" style="text-decoration:none;>
+    <img src="https://img.shields.io/badge/Portfolio-1B1F23?style=flat&logo=github&logoColor=white&labelColor=1B1F23&border_radius=8" />
   </a>
 </p>
+
 
 
 ---
