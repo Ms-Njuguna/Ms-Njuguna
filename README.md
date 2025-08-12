@@ -44,15 +44,15 @@
 ## Let's Connect!
 
 
-<p align="center">
-  <a href="https://linkedin.com/in/patricianjuguna" style="text-decoration:none;>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&border_radius=8" />
+<p>
+  <a href="https://linkedin.com/in/patricianjuguna" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" style="border-radius:8px; margin-right:4px;" />
   </a>
-  <a href="https://instagram.com/yourhandle" style="text-decoration:none;>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&border_radius=8" />
+  <a href="https://instagram.com/yourhandle" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" style="border-radius:8px; margin-right:4px;" />
   </a>
-  <a href="https://yourportfolio.com" style="text-decoration:none;>
-    <img src="https://img.shields.io/badge/Portfolio-1B1F23?style=flat&logo=github&logoColor=white&labelColor=1B1F23&border_radius=8" />
+  <a href="https://yourportfolio.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-1B1F23?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1F23" style="border-radius:8px;" />
   </a>
 </p>
 
