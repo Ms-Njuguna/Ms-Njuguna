@@ -15,7 +15,7 @@
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 
 <p>
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- GitHub Readme Stats Card -->
 ![Ms-Njuguna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ms-Njuguna&show_icons=true&theme=radical)
@@ -41,11 +41,19 @@
 
 ---
 
-## 🔗 Let's Connect!
+## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patricianjuguna)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
+<p>
+  <a href="https://linkedin.com/in/patricianjuguna">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="border-radius:8px; margin-right:4px;" />
+  </a>
+  <a href="https://instagram.com/trish_njuguna">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="border-radius:8px; margin-right:4px;" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" style="border-radius:8px;" />
+  </a>
+</p>
 
 ---
 
