@@ -192,9 +192,8 @@ const patricia = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="80%" src="https://metrics.lecoq.io/Ms-Njuguna?template=classic&base.header=0&base.activity=0&base.community=0&display=regular&config.timezone=Africa%2FNairobi" alt="GitHub Metrics" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
-
 ---
 
 ## ✍️ Dev Wisdom
