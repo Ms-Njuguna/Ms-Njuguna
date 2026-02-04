@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Ms-Njuguna/Ms-Njuguna/main/assets/banner.png" alt="Banner" width="100%"/>
 
 <!-- Typing Effect with new color -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6F61&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Software+Engineer;Frontend+%26+Backend+Developer;Cypress+%26+Django+Enthusiast;Problem+Solver+Through+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6F61&center=true&vCenter=true&lines=Full-Stack+Software+Engineer;Frontend+%26+Backend+Developer;Cypress+%26+Django+Enthusiast;Problem+Solver+Through+Code" alt="Typing SVG" />
 
 <!-- Socials -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/trish_njuguna)
@@ -193,10 +193,12 @@ const patricia = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ms-Njuguna&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Ms-Njuguna&theme=dark&hide_border=false" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Njuguna&theme=dark&hide_border=false&layout=compact" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ms-Njuguna&theme=dark&hide_border=false" />
+  <img width="45%" src="https://nirzak-streak-stats.vercel.app/?user=Ms-Njuguna&theme=dark&hide_border=false" />
+  <br>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Njuguna&theme=dark&hide_border=false&layout=compact" />
 </div>
+
 
 ---
 
