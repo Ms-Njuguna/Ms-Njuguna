@@ -16,19 +16,19 @@ jobs:
           base: header, repositories
           config_timezone: Africa/Nairobi
           
-          # Framework & Testing Detection
+          # Plugin Languages Configuration
           plugin_languages: yes
-          plugin_languages_indepth: yes # Essential for detecting libraries/frameworks
-          plugin_languages_details: percentage
-          plugin_languages_limit: 15 # Increased to ensure Testing tools make the cut
-          
-          # Force display of specific categories
+          plugin_languages_indepth: yes # Crucial: Scans dependencies for frameworks
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 20 # High limit to prevent testing tools from being hidden
           plugin_languages_sections: most-used, recently-used
           
-          # Filter out noise to let frameworks shine
-          plugin_languages_ignored: html, css, scss, markdown, text
+          # Force inclusion of Logic/Backend/Testing over Style
+          plugin_languages_ignored: html, css, scss, markdown, text, json
+          plugin_languages_categories: markup, programming, data
           
-          # Private stats to capture your full workload
+          # Display adjustments for a clean "Recruiter Ready" look
+          config_display: large
           repositories_batch: 200
           
           # Activity heat map
