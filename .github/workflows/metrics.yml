@@ -13,19 +13,23 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Ms-Njuguna
           template: classic
-          # Focusing only on high-value recruiter data
           base: header, repositories
-          base_extralayout: true
           config_timezone: Africa/Nairobi
           
-          # Private Contributions Settings
-          config_order: base.header, base.repositories, languages
+          # Private Contributions & Indepth Analysis
           repositories_batch: 200
-          
-          # Language Plugin: Shows your tech stack (Flask, React, etc.)
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_indepth: yes # Analyzes your files to detect React, Django, etc.
           plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          
+          # Remove boilerplate languages to keep it recruiter-ready
+          plugin_languages_ignored: html, css, scss
+          
+          # Activity heat map
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           
           # Activity Plugin: Shows you are active and consistent
           plugin_isocalendar: yes
