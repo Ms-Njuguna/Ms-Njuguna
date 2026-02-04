@@ -13,8 +13,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Ms-Njuguna
           template: classic
-          base: header, community, repositories, metadata
+          # Focusing only on high-value recruiter data
+          base: header, repositories
+          base_extralayout: true
           config_timezone: Africa/Nairobi
-          # This ensures it saves locally to your repo
-          output_action: commit
-          committer_gist: ${{ ignore }}
+          
+          # Private Contributions Settings
+          config_order: base.header, base.repositories, languages
+          repositories_batch: 200
+          
+          # Language Plugin: Shows your tech stack (Flask, React, etc.)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          
+          # Activity Plugin: Shows you are active and consistent
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
