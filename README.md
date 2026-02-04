@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/Ms-Njuguna/Ms-Njuguna/main/assets/banner.png" alt="Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=%23FF6F61&center=true&vCenter=true&lines=Full-Stack+Software+Engineer;Frontend+%26+Backend+Developer;Cypress+%26+Django+Enthusiast;Problem+Solver+Through+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=%23FF6F61&width=600&center=true&vCenter=true&lines=Full-Stack+Software+Engineer;Frontend+%26+Backend+Developer;Cypress+%26+Django+Enthusiast;Problem+Solver+Through+Code" alt="Typing SVG" />
 
 <!-- Socials -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/trish_njuguna)
