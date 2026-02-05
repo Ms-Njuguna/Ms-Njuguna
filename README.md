@@ -15,8 +15,7 @@ A **full-stack software engineer in the making** who loves turning ideas into **
 - Collaborating on **frontend, backend, or full-stack projects**  
 - Building products with **clean code, great UX, and real impact**
 
-> Curious, a bit stubborn, and always learning—especially when solving problems that make me scratch my head (and my code too 😅).  
-> Bonus points if your team loves **coffee, memes, or late-night debugging**.
+> Curious, a bit stubborn, and always learning. Especially when solving problems that make me scratch my head (and my code too 😅). Bonus points if your team loves **coffee, memes, or late-night debugging**.
 
 ---
 
