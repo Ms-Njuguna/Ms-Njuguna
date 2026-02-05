@@ -1,22 +1,7 @@
-<div align="center">
-
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/Ms-Njuguna/Ms-Njuguna/main/assets/banner.png" alt="Banner" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=%23FF6F61&width=600&center=true&vCenter=true&lines=Full-Stack+Software+Engineer;Frontend+%26+Backend+Developer;Cypress+%26+Django+Enthusiast;Problem+Solver+Through+Code" alt="Typing SVG" />
-
-<!-- Socials -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/trish_njuguna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-njuguna-275a6a383/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@trish_njuguna)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@trish_njuguna)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patricianjuguna084@gmail.com)
-
-</div>
 
 ---
 
-## 💫 About Me
+## About Me
 
 Hi! I’m **Patricia Njuguna** 👋  
 A **full-stack software engineer in the making** who loves turning ideas into **clean, functional, and user-friendly applications**.
@@ -35,7 +20,7 @@ A **full-stack software engineer in the making** who loves turning ideas into **
 
 ---
 
-## 🔭 Current Focus & Interests
+## Current Focus & Interests
 
 ```javascript
 const patricia = {
@@ -49,7 +34,6 @@ const patricia = {
 
 ---
 
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -84,7 +68,7 @@ const patricia = {
 <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br>Redux
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=reactrouter" width="48" height="48" alt="React Router" /><br>React Router
+<img src="assets/rr_logo_dark (1).svg" width="48" height="48" alt="React Router" /><br>React Router
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind
@@ -93,10 +77,7 @@ const patricia = {
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=chakraui" width="48" height="48" alt="Chakra UI" /><br>Chakra UI
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=chartjs" width="48" height="48" alt="Chart.js" /><br>Chart.js
+<img src="assets/logo-title-chartjs.svg" width="48" height="48" alt="Chart.js" /><br>Chart.js
 </td>
 </tr>
 </table>
@@ -123,7 +104,7 @@ const patricia = {
 <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>SQLite
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gunicorn" width="48" height="48" alt="Gunicorn" /><br>Gunicorn
+<img src="assets/gunicorn.svg" width="48" height="48" alt="Gunicorn" /><br>Gunicorn
 </td>
 </tr>
 </table>
@@ -150,7 +131,7 @@ const patricia = {
 <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" /><br>Render
+<img src="assets/Render logomark - White.svg" width="48" height="48" alt="Render" /><br>Render
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br>Netlify
@@ -165,7 +146,7 @@ const patricia = {
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" /><br>Canva
+<img src="assets/canva-logo.svg" width="48" height="48" alt="Canva" /><br>Canva
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=sketchup" width="48" height="48" alt="SketchUp" /><br>SketchUp
@@ -174,7 +155,7 @@ const patricia = {
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira" /><br>Jira
+<img src="assets/favicon-jira.png" width="48" height="48" alt="Jira" /><br>Jira
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /><br>Notion
@@ -189,39 +170,17 @@ const patricia = {
 
 ---
 
-## 📊 GitHub Stats
+## Support My Work
 
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
----
-
-## ✍️ Dev Wisdom
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-## 💰 Support My Work
-
-If you like what I’m building and want to support my journey ❤️  
+If you like what I’m building and want to support my journey ...  
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/patricianjuguna084)
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
 </div>
 
-
-
-
-
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
 
 
