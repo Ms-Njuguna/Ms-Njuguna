@@ -10,6 +10,7 @@ A **full-stack software engineer in the making** who loves turning ideas into **
 - Building a **restaurant table reservation system**, handling everything from UI to backend logic and data flow  
 - Leveling up my **testing skills with Cypress**  
 - Deepening backend expertise with **Django & RESTful APIs**
+- Leveling Up: From Web to Mobile with **React Native**
 
 **What I’d love to work on:**  
 - Collaborating on **frontend, backend, or full-stack projects**  
